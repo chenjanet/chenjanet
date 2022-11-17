@@ -3,7 +3,7 @@
 ### right now, i'm...
 📚 studying software engineering at the university of waterloo <br/>
 💻 interning at zynga for fall 2022 <br/>
-🌱 open to summer 2023 internships! <br/>
+🌱 open to winter 2024 internship opportunities! <br/>
 
 ### let's connect! talk to me via
 [<img src="https://img.shields.io/badge/-j985chen-222222?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/j985chen/)
