@@ -6,10 +6,10 @@
 🌱 open to winter 2024 internship opportunities <br/>
 
 ### let's connect! talk to me via
-[<img src="https://img.shields.io/badge/-j985chen-222222?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/j985chen/)
+[<img src="https://img.shields.io/badge/-janetchen1-222222?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/janetchen1/)
 [<img src="https://img.shields.io/badge/-janet.chen@uwaterloo.ca-222222?style=flat-square&logo=Gmail&logoColor=white">](mailto:janet.chen@uwaterloo.ca) 
 <!--
-**j985chen/j985chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chenjanet/chenjanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
