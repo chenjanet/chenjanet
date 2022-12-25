@@ -2,7 +2,6 @@
 
 ### right now, i'm...
 📚 studying software engineering at the university of waterloo <br/>
-💻 interning at zynga for fall 2022 <br/>
 🌱 open to winter 2024 internship opportunities <br/>
 
 ### let's connect! talk to me via
