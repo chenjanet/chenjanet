@@ -3,7 +3,7 @@
 ### right now, i'm...
 📚 studying software engineering at the university of waterloo <br/>
 
-### let's connect! talk to me via
+### let's connect!
 [<img src="https://img.shields.io/badge/-janetchen1-222222?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/janetchen1/)
 [<img src="https://img.shields.io/badge/-janet.chen@uwaterloo.ca-222222?style=flat-square&logo=Gmail&logoColor=white">](mailto:janet.chen@uwaterloo.ca) 
 <!--
