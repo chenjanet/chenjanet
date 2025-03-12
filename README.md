@@ -2,6 +2,8 @@
 
 ### right now, i'm...
 📚 studying software engineering at the university of waterloo <br/>
+🔭 building an interactive cloudgazing art installation for my fourth-year capstone design project <br/>
+🧶 learning how to crochet <br/>
 
 ### let's connect!
 [<img src="https://img.shields.io/badge/-janetchen1-222222?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/janetchen1/)
