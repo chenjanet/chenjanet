@@ -1,8 +1,8 @@
 ## hello world! i'm janet. 👋
 
 ### right now, i'm...
-📚 studying software engineering at the university of waterloo <br/>
-🔭 building an interactive cloudgazing art installation for my fourth-year capstone design project <br/>
+📚 finishing up my degree in software engineering at the university of waterloo <br/>
+🔭 building the se25 class profile (coming later this summer!) <br/>
 🧶 learning how to crochet <br/>
 
 ### let's connect!
